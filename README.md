@@ -21,7 +21,6 @@
 
 <h1>My Github Stats &#x1f4c8;</h1>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>Github Trophies</h2></a>
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
   <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=aditya1rawat&column=7"/>
 </a>
