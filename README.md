@@ -4,8 +4,8 @@
 <h4>Languages I Know & Use</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
