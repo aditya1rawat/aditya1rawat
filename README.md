@@ -1,5 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/wave.gif" width="50px"> Hey! I'm Aditya Rawat!</h1>
-<p>😄 Pronouns: he/him</p>
+<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
 
 <!--
 **aditya1rawat/aditya1rawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
