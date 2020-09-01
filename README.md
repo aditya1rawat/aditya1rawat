@@ -17,7 +17,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql&logoColor=FFFFFF)
 
 
 <h1>My Github Stats &#x1f4c8;</h1>
