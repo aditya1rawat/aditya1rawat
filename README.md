@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
+<img src="images/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
 
 <h2>About Me</h2>
 <h4>Languages I Know & Use</h4>
