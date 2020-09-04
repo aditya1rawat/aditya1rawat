@@ -24,8 +24,11 @@
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=F05032)
 
-<h4>Things I Am & Want To Learn</h4>
+<h4>Things I Want To Learn</h4>
+
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=339933)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
 
 
 <h1>My Github Stats &#x1f4c8;</h1>
