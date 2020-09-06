@@ -30,6 +30,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=339933)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=339933)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=339933)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
 
