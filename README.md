@@ -43,12 +43,12 @@
   <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=aditya1rawat&column=7"/>
 </a>
 
----
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
 </div>
+
+---
 
 <h3>Connect & Contact Me!</h3>
 <p><a href="mailto:aditya1rawat@gmail.com">Email Me!</a></p>
