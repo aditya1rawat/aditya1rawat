@@ -35,6 +35,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
 
+---
 
 <h1>My Github Stats &#x1f4c8;</h1>
 
@@ -48,8 +49,6 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
 </div>
-
----
 
 <h3>Connect & Contact Me!</h3>
 <p><a href="mailto:aditya1rawat@gmail.com">Email Me!</a></p>
