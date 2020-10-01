@@ -40,7 +40,7 @@
 <h1>My Github Stats &#x1f4c8;</h1>
 
 <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=aditya1rawat&column=7"/>
+  <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&margin-w=15&margin-h=15"/>
 </a>
 
 <div>
