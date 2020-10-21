@@ -41,12 +41,13 @@
 ---
 
 <h1>My Github Stats &#x1f4c8;</h1>
+
 <div>
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15"/>
   </a>
 </div
-  
+<br />
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
