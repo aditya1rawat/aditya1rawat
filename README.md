@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aditya1rawat&color=green&style=flat-square&label=Profile+Views)
 
-Started At Nov. 4, 2020
+As Of Nov. 4, 2020
 
 ---
 
