@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
 
 ![](https://komarev.com/ghpvc/?username=aditya1rawat&color=green&style=flat-square&label=Profile+Views)
+Started At Nov. 4, 2020
 
 ---
 
