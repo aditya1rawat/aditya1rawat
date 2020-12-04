@@ -47,14 +47,19 @@ As Of Nov. 4, 2020
 <h1>My Github Stats &#x1f4c8;</h1>
 
 <div>
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+  <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15"/>
   </a>
-</div
+  </p>
+</div>
 <br />
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
+<div align="center">
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
+  </p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" /></p>
 </div>
 
 ---
