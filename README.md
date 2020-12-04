@@ -59,7 +59,6 @@ As Of Nov. 4, 2020
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
   </p>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" /></p>
 </div>
 
 ---
