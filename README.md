@@ -1,10 +1,14 @@
-<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px">
-<h1>Hey! I'm Aditya Rawat!</h1>
+<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
+
 ![](https://komarev.com/ghpvc/?username=aditya1rawat&color=green&style=flat-square&label=Profile+Views)
+
 As Of Nov. 4, 2020
+
 ---
+
 <h2>About Me</h2>
 <h4>Languages I Know & Use</h4>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
@@ -12,7 +16,9 @@ As Of Nov. 4, 2020
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
 <h4>Services & Frameworks I Know & Use</h4>
+
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=339933)
@@ -25,7 +31,9 @@ As Of Nov. 4, 2020
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=61DAFB)
 ![Airtable](https://img.shields.io/badge/-Airtable-000000?style=flat&logo=airtable&logoColor=FCC624)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=F05032)
+
 <h4>Things I Want To Learn & Things I Am Learning</h4>
+
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=339933)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql&logoColor=339933)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=339933)
@@ -33,25 +41,32 @@ As Of Nov. 4, 2020
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=339933)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift&logoColor=339933)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=339933)
+
 ---
+
 <h1>My Github Stats &#x1f4c8;</h1>
+
 <div>
-    <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15"/>
-        </a>
-    </p>
+  <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center" margin="10" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&margin-w=15&margin-h=15"/>
+  </a>
+  </p>
 </div>
 <br />
 <div align="center">
-    <p align="center">
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
-    </p>
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
+  </p>
 </div>
+
 ---
+
 <h3>Connect & Contact Me!</h3>
 <p><a href="mailto:aditya1rawat@gmail.com">Email Me!</a></p>
 <p><a href="https://wakatime.com/@aditya1rawat" target="_blank">Check Out My Wakatime!</a></p>
-<p><a href="https://github.com/aditya1rawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/aditya1rawat" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aditya1rawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@aditya1rawat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.instagram.com/ad1tya_rawhaaat/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%7232BD.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
+<p><a href="https://github.com/aditya1rawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/aditya1rawat" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aditya1rawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@aditya1rawat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.instagram.com/ad1tya_rawhaaat/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%7232BD.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
 <a href="https://hackclub.com/"><img src="https://assets.hackclub.com/flag-orpheus-left.png" width="100"></a>
