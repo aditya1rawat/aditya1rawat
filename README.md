@@ -56,8 +56,11 @@ As Of Nov. 4, 2020
 <br />
 <div align="center">
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya1rawat&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1rawat&layout=compact&theme=radical" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aditya1rawat&theme=radical" />
   </p>
 </div>
 
