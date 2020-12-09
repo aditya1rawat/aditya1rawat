@@ -1,3 +1,11 @@
+<div align="center">
+  <br>
+    <a href="https://github.com/aditya1rawat/aditya1rawat/blob/master/header.svg" align="center">
+      <img src="header.svg" width="800" height="400" >
+    </a>
+  <br>
+</div>
+
 <img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px"><h1>Hey! I'm Aditya Rawat!</h1>
 
 ![](https://komarev.com/ghpvc/?username=aditya1rawat&color=green&style=flat-square&label=Profile+Views)
