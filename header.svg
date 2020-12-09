@@ -82,7 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1><img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px">Hi! I'm Aditya Rawat!</h1>
+				<img src="https://raw.githubusercontent.com/aditya1rawat/aditya1rawat/master/images/wave.gif" width="50px" /> <h1>Hi! I'm Aditya Rawat!</h1>
 				<p>Full Stack Web Developer &amp; Full-Time Highschooler</p>
 			</div>
 		</div>
