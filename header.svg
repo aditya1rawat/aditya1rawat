@@ -27,8 +27,8 @@
 					0% {
 						opacity: 0;
 					}
-					66% {
-						opacity: 0;
+					50% {
+						opacity: 0.5;
 					}
 					100% {
 						opacity: 1;
@@ -78,7 +78,7 @@
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+					animation: 2s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
 			<div class="container">
