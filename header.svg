@@ -11,18 +11,6 @@
 					}
 				}
 
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-
 				@keyframes fadeIn {
 					0% {
 						opacity: 0;
@@ -55,7 +43,6 @@
 					height: 400px;
 					background: linear-gradient(-45deg, #544a7d, #ffd452);
 					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
