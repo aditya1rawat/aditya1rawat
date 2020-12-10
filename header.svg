@@ -41,7 +41,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(#544a7d, #ffd452);
+					background: linear-gradient(to right, #544a7d, #ffd452);
 					background-size: 600% 400%;
 					border-radius: 10px;
 					color: white;
