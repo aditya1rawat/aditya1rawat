@@ -14,7 +14,7 @@ As Of Nov. 4, 2020
 
 ---
 
-<h2>About Me</h2>
+<h2>About Me 👤</h2>
 <h4>Languages I Know & Use</h4>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -74,7 +74,7 @@ As Of Nov. 4, 2020
 
 ---
 
-<h3>Connect & Contact Me!</h3>
+<h3>Connect & Contact Me! 📞</h3>
 <p><a href="mailto:aditya1rawat@gmail.com">Email Me!</a></p>
 <p><a href="https://wakatime.com/@aditya1rawat" target="_blank">Check Out My Wakatime!</a></p>
 <p><a href="https://github.com/aditya1rawat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/aditya1rawat" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aditya1rawat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@aditya1rawat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.instagram.com/ad1tya_rawhaaat/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%7232BD.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
