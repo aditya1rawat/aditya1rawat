@@ -20,7 +20,6 @@ As Of Nov. 4, 2020
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=007ACC)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
